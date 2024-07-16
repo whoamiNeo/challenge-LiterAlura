@@ -1,4 +1,3 @@
-![banner](img/banner.png)
 
 # Challenge-Literalura
 Challenge Oracle/Alura Back-end
